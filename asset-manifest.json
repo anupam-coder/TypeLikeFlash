@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TypeLikeFlash/static/css/main.b03540de.chunk.css",
+    "main.js": "/TypeLikeFlash/static/js/main.1881df2b.chunk.js",
+    "main.js.map": "/TypeLikeFlash/static/js/main.1881df2b.chunk.js.map",
+    "runtime-main.js": "/TypeLikeFlash/static/js/runtime-main.f02b0964.js",
+    "runtime-main.js.map": "/TypeLikeFlash/static/js/runtime-main.f02b0964.js.map",
+    "static/js/2.97ad96ab.chunk.js": "/TypeLikeFlash/static/js/2.97ad96ab.chunk.js",
+    "static/js/2.97ad96ab.chunk.js.map": "/TypeLikeFlash/static/js/2.97ad96ab.chunk.js.map",
+    "index.html": "/TypeLikeFlash/index.html",
+    "static/css/main.b03540de.chunk.css.map": "/TypeLikeFlash/static/css/main.b03540de.chunk.css.map",
+    "static/js/2.97ad96ab.chunk.js.LICENSE.txt": "/TypeLikeFlash/static/js/2.97ad96ab.chunk.js.LICENSE.txt",
+    "static/media/flash.96e141d3.png": "/TypeLikeFlash/static/media/flash.96e141d3.png",
+    "static/media/logo.904ac8fd.png": "/TypeLikeFlash/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f02b0964.js",
+    "static/js/2.97ad96ab.chunk.js",
+    "static/css/main.b03540de.chunk.css",
+    "static/js/main.1881df2b.chunk.js"
+  ]
+}
