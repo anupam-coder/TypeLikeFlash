@@ -6,7 +6,7 @@ import Landing from "../Landing/Landing";
 import Nav from "../Nav/Nav";
 import "./App.css";
 
-const TotalTime = 2;
+const TotalTime = 60;
 const ServiceUrl = "https://baconipsum.com/api/?type=all-meat&paras=3&start-with-lorem=1&format=text";
 const DefaultState = {
     selectedParagraph: "",
